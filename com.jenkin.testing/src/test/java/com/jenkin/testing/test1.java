@@ -6,6 +6,8 @@ public class test1 {
 	@Test
 	public void testing1()
 	{
+
+
 		System.out.print("Hello testing success");
 	}
 
