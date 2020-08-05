@@ -8,7 +8,7 @@ public class test1 {
 	{
 
 
-		System.out.print("Hello testing su1ccess");
+		System.out.print("Hello testing su1c11cess");
 	}
 
 }
